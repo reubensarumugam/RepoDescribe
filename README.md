@@ -9,7 +9,7 @@
   5. IndieProj/PluralSight/Csharp
   6. InideProj/PluralSight/Django
   
-* ### CodeAtWork - Everyday code in production - nothing sensitive. Automation, DashBoards, Reports and Queries.
+* ### CodeAtWork - Everyday code in production. Automation, DashBoards, Reports and Queries.
   1. CodeAtWork/SQL
   2. CodeAtWork/SQL_CFML/Reports
   3. CodeAtWork/SQL_CFML/QueriesDashboards
