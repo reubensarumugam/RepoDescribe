@@ -1,7 +1,7 @@
 # RepoDescribe<br>
 ## List of Repositories
 
-* ### IndieProj
+* ### IndieProj - Independent Projects from Brainstation, PluralSight etc
   1. IndieProj/Brainstation/FinalProject
   2. IndieProj/Brainstation/CourseWork
   3. IndieProj/PluralSight/ECMAScript/
@@ -9,7 +9,7 @@
   5.IndieProj/PluralSight/Csharp
   6. InideProj/PluralSight/Django
   
-* ### CodeAtWork
+* ### CodeAtWork 
   1. CodeAtWork/SQL
   2. CodeAtWork/SQL_CFML/Reports
   3. CodeAtWork/SQL_CFML/QueriesDashboards
