@@ -1,5 +1,5 @@
 # RepoDescribe<br>
-## List of Repositories
+## List of Private Repositories
 
 * ### IndieProj - Independent Projects from Brainstation, PluralSight etc
   1. IndieProj/Brainstation/FinalProject
